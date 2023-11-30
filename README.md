@@ -2,7 +2,7 @@
 
 ![omni_logo](https://github.com/0SGames/Omni/assets/112166972/da0ece2a-f914-4b57-8c67-b016ab5139ee)
 
-Welcome to Omni Client Overhaul – a revolutionary Minecraft mod that transforms the gaming experience by seamlessly integrating survival and PvP elements. This feature-rich mod introduces a plethora of enhancements, offering unparalleled flexibility and customization for players in both single-player and multiplayer modes.
+Welcome to Omni Client – a revolutionary Minecraft mod that transforms the gaming experience by seamlessly integrating survival and PvP elements. This feature-rich mod introduces a plethora of enhancements, offering unparalleled flexibility and customization for players in both single-player and multiplayer modes.
 
 ## Features:
 
