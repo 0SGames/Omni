@@ -1,4 +1,5 @@
 # Omni Client
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f93c7110-896a-446b-8470-46a47be9f6e4/deploy-status)](https://app.netlify.com/sites/omnicl/deploys)
 
 Welcome to Omni Client – a revolutionary Minecraft mod that transforms the gaming experience by seamlessly integrating survival and PvP elements. This feature-rich mod introduces a plethora of enhancements, offering unparalleled flexibility and customization for players in both single-player and multiplayer modes.
 
